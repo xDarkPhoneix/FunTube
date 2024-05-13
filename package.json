@@ -1,0 +1,16 @@
+{
+  "name": "funtube",
+  "version": "1.0.0",
+  "description": "a backend project with lot of learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node javascript chai"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "chai"
+  ],
+  "author": "xDarkPhoneix",
+  "license": "ISC"
+}
